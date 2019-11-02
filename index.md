@@ -26,14 +26,23 @@
 <h6>2010年9月-2012年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曲阜师范大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电气工程及其自动化&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科<h6>
 
 <h5>研究方向<h5>
-</b></p>深度神经网络结构设计与优化，污水处理过程特征建模与水质预测，离散事件动态系统的神经网络优化与控制策略</b></p>
+  
+<h6>深度神经网络结构设计与优化，污水处理过程特征建模与水质预测，离散事件动态系统的神经网络优化与控制策略<h6>
 
-代表性论著
-</b></p>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. *IEEE Transactions on Automation Science and Engineering*, 2018, 16(2): 874-885.</b></p>
-</b></p>[2] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. *Neural Networks*, 2020, 121: 430-440.</b></p>
-</b></p>[3] Qaio J F, Wang G M, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. *Neural Networks*, 2018, 104: 68-79.</b></p>
-</b></p>[4] Qaio J F, Wang G M, Li W J. An adaptive deep Q-learning strategy for handwritten digit recognition. *Neural Networks*, 2018, 107: 61-71.</b></p> 
-</b></p>[5] Qaio J F, Wang G M, Li X L, Li W J. A self-organizing deep belief network for nonlinear system modeling. *Applied Soft Computing*, 2018, 65: 170-183.</b></p>
-</b></p>[6] 王功明，乔俊飞，王磊. 一种能量函数意义下的生成式对抗网络. *自动化学报*, 2018, 44(5): 793-803.</b></p>
-</b></p>[7] 王功明，李文静，乔俊飞. 基于PLSR自适应深度信念网络的出水总磷预测. *化工学报*, 2017, 68(5): 1987-1997.</b></p>
-</b></p>[8] 乔俊飞，王功明，李晓理，韩红桂，柴伟. 基于自适应学习率的深度信念网设计与应用. *自动化学报*, 2017, 43(8): 1339-1349.</b></p>
+<h5>代表性论著<h5>
+  
+<h6>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. *IEEE Transactions on Automation Science and Engineering*, 2018, 16(2): 874-885.<h6>
+  
+<h6>[2] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. *Neural Networks*, 2020, 121: 430-440.<h6>
+  
+<h6>[3] Qaio J F, Wang G M, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. *Neural Networks*, 2018, 104: 68-79.<h6>
+  
+<h6>[4] Qaio J F, Wang G M, Li W J. An adaptive deep Q-learning strategy for handwritten digit recognition. *Neural Networks*, 2018, 107: 61-71.<h6>
+  
+<h6>[5] Qaio J F, Wang G M, Li X L, Li W J. A self-organizing deep belief network for nonlinear system modeling. *Applied Soft Computing*, 2018, 65: 170-183.<h6>
+  
+<h6>[6] 王功明，乔俊飞，王磊. 一种能量函数意义下的生成式对抗网络. *自动化学报*, 2018, 44(5): 793-803.<h6>
+  
+<h6>[7] 王功明，李文静，乔俊飞. 基于PLSR自适应深度信念网络的出水总磷预测. *化工学报*, 2017, 68(5): 1987-1997.<h6>
+  
+<h6>[8] 乔俊飞，王功明，李晓理，韩红桂，柴伟. 基于自适应学习率的深度信念网设计与应用. *自动化学报*, 2017, 43(8): 1339-1349.<h6>
