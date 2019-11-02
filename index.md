@@ -14,8 +14,8 @@
 </table>
 
 <h5>教育背景<h5>
-</b></p>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后</b></p> </br>
-</b></p>2015年9月-2019年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士</b></p> </br>
+<h6>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后<h6>
+<h6>2015年9月-2019年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士<h6>
 </b></p>2017年9月-2018年9月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国俄勒冈大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机与信息科学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联合培养博士</b></p> </br>
 </b></p>2012年9月-2015年5月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;沈阳化工大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士</b></p> </br>
 </b></p>2010年9月-2012年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曲阜师范大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电气工程及其自动化&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科</b></p> </br>
