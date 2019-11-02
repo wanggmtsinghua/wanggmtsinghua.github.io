@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>王功明</h1>
+      <h2>王功明</h2>
       <p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化研究中心</b></p>
       <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
       <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
@@ -13,9 +13,9 @@
   </tr>
 </table>
 
-<h3>教育背景<h>
+<h3>教育背景<h3>
   
-<h5>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后<h5>
+<h4>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后<h4>
   
 <h6>2015年9月-2019年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士<h6>
   
