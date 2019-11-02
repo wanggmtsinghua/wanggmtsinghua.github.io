@@ -13,9 +13,9 @@
   </tr>
 </table>
 
-<h5>教育背景<h5>
+<h3>教育背景<h>
   
-<h6>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后<h6>
+<h5>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后<h5>
   
 <h6>2015年9月-2019年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士<h6>
   
