@@ -31,11 +31,11 @@
 
 <h4>代表性论著<h4>
   
-[1] **Wang G M**, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. **IEEE Transactions on Automation Science and Engineering**, 2018, 16(2): 874-885.
+<h5>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. IEEE Transactions on Automation Science and Engineering, 2018, 16(2): 874-885. <h5>
   
-[2] **Wang G M**, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. **Neural Networks**, 2020, 121: 430-440.
+<h5>[2] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. Neural Networks, 2020, 121: 430-440.<h5>
   
-[3] Qaio J F, **Wang G M**, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. **Neural Networks**, 2018, 104: 68-79.
+<h5>[3] Qaio J F, Wang G M, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. Neural Networks, 2018, 104: 68-79.
   
 <h5>[4] Qaio J F, Wang G M, Li W J. An adaptive deep Q-learning strategy for handwritten digit recognition. *Neural Networks*, 2018, 107: 61-71.<h5>
   
