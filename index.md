@@ -5,15 +5,13 @@
       <p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化研究中心</b></p>
       <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
       <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
-      <p><b>合作导师：贾庆山（长聘副教授）</b></p>
+      <p><b>合作导师：贾庆山(长聘副教授)</b></p>
     </td>
-    <td width="50%">
+    <td width="25%">
       <img src="https://github.com/wanggmtsinghua/wanggmtsinghua.github.io/raw/master/Gongming.jpg" width="100%"> 
     </td>
   </tr>
 </table>
-
-![image](https://github.com/wanggmtsinghua/wanggmtsinghua.github.io/master/Gongming.jpg)
 
 <h5>教育背景<h5>
 </b></p>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后</b></p>
