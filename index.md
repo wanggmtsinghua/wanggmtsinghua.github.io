@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h3>王功明</h3>
+      <h2>王功明</h2>
       <p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化研究中心</b></p>
       <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
       <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
@@ -31,7 +31,7 @@
 
 <h4>代表性论著<h4>
   
-<h5>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. *IEEE Transactions on Automation Science and Engineering*, 2018, 16(2): 874-885.<h5>
+<h5>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. **IEEE Transactions on Automation Science and Engineering**, 2018, 16(2): 874-885.<h5>
   
 <h5>[2] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. *Neural Networks*, 2020, 121: 430-440.<h5>
   
