@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-![image] (https://github.com/wanggmtsinghua/wanggmtsinghua.github.io/raw/master/Gongming.jpg")
+![image](https://github.com/wanggmtsinghua/wanggmtsinghua.github.io/master/Gongming.jpg)
 
 <h5>教育背景<h5>
 </b></p>2019年7月-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后</b></p>
