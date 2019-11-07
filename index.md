@@ -19,7 +19,7 @@
   
 <h5>2015年9月-2019年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士<h5>
   
-<h5>2017年9月-2018年9月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国俄勒冈大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机与信息科学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联合培养博士<h5>
+<h5>2017年9月-2018年9月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国俄勒冈大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机与信息科学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公派博士<h5>
 
 <h5>2012年9月-2015年5月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;沈阳化工大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士<h5>
 
