@@ -1,7 +1,7 @@
-<table border="0">
+<table border="2">
   <tr>
     <td width="75%">
-      <h2>王功明</h2>
+      <h1>王功明</h1>
       <p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心</b></p>
       <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
       <p><b>地址：清华大学FIT楼3-619，邮编100084</b></p>
@@ -29,7 +29,7 @@
   
 <h4>深度神经网络结构设计与优化，污水处理过程特征建模与水质预测，离散事件动态系统的神经网络优化与控制策略.<h4>
 
-<h4>代表性论著<h4>
+<h3>代表性论著<h3>
   
 <h4>[1] Wang G M, Qiao J F, Bi J, Jia Q-S, Zhou M C. An Adaptive Deep Belief Network with Sparse Restricted Boltzmann Machines. IEEE Transactions on Neural Networks and Learning Systems, 2019 (Accepted).<h4>
   
