@@ -45,7 +45,7 @@
   
 <h4>[7] Wang G M, Qiao J F, Li X L, Wang L, Qian X L. Improved classification with semi-supervised deep belief network. IFAC-PapersOnLine, 2017, 50(1): 4174-4179.<h4>
   
-<h4>[8] Wang G M, Qiao J F; Bi J, Zhou M C. An Efficient Deep Belief Network with Fuzzy Learning for Nonlinear System Modeling. IEEE International Conference on Systems, Man and Cybernetics (SMC), Bari, Italy, October 6-9, 2019, pp: 3549-3554.<h4>
+<h4>[8] Wang G M, Qiao J F, Bi J, Zhou M C. An Efficient Deep Belief Network with Fuzzy Learning for Nonlinear System Modeling. IEEE International Conference on Systems, Man and Cybernetics (SMC), Bari, Italy, October 6-9, 2019, pp: 3549-3554.<h4>
   
 <h4>[9] Wang G M, Li W J, Qiao J F, Wu G D. Nonlinear system identification using deep belief network based on PLSR. The 36th Chinese Control Conference (CCC). IEEE, 2017: 10807-10812.<h4>
   
