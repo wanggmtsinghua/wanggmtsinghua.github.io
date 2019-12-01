@@ -2,10 +2,10 @@
   <tr>
     <td width="75%">
       <h1>王功明</h1>
-      <h2><p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心</b></p><h2>
-      <h2><p><b>邮箱：wanggm@tsinghua.edu.cn</b></p><h2>
-      <h2><p><b>地址：清华大学FIT楼3-619，邮编100084</b></p><h2>
-      <h2><p><b>合作导师：贾庆山(长聘副教授)</b></p><h2>
+      <p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化系统研究中心</b></p>
+      <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
+      <p><b>地址：清华大学FIT楼3-619，邮编100084</b></p>
+      <p><b>合作导师：贾庆山(长聘副教授)</b></p>
     </td>
     <td width="25%">
       <img src="https://github.com/wanggmtsinghua/wanggmtsinghua.github.io/raw/master/Gongming.jpg" width="100%"> 
