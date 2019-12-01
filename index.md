@@ -31,24 +31,25 @@
 
 <h4>代表性论著<h4>
   
-<h5>[1] Wang G M, Qiao J F, Bi J, Jia Q-S, Zhou M C. An Adaptive Deep Belief Network with Sparse Restricted Boltzmann Machines. IEEE Transactions on Neural Networks and Learning Systems, 2019 (Accepted).<h5>
-<h5>[2] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. IEEE Transactions on Automation Science and Engineering, 2018, 16(2): 874-885. <h5>
+<h4>[1] Wang G M, Qiao J F, Bi J, Jia Q-S, Zhou M C. An Adaptive Deep Belief Network with Sparse Restricted Boltzmann Machines. IEEE Transactions on Neural Networks and Learning Systems, 2019 (Accepted).<h4>
+<h4>[2] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. IEEE Transactions on Automation Science and Engineering, 2018, 16(2): 874-885. <h4>
   
-<h5>[3] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. Neural Networks, 2020, 121: 430-440.<h5>
+<h4>[3] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. Neural Networks, 2020, 121: 430-440.<h4>
   
 <h5>[4] Qaio J F, Wang G M, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. Neural Networks, 2018, 104: 68-79.
   
 <h5>[5] Qaio J F, Wang G M, Li W J. An adaptive deep Q-learning strategy for handwritten digit recognition. Neural Networks, 2018, 107: 61-71.<h5>
   
 <h5>[6] Qaio J F, Wang G M, Li X L, Li W J. A self-organizing deep belief network for nonlinear system modeling. Applied Soft Computing, 2018, 65: 170-183.<h5>
-<h5>[7] Wang G M, Qiao J F, Li X L, Wang L, Qian X L. Improved classification with semi-supervised deep belief network. IFAC-papersOnLine, 2017, 50(1): 4174-4179.<h5>
-<h5>[8] Wang G M, Li W J, Qiao J F, Wu G D. Nonlinear system identification using deep belief network based on PLSR. The 36th Chinese Control Conference (CCC). IEEE, 2017: 10807-10812.<h5>
-<h5>[9] Wang L, Yang C L, Qiao J F, Wang G M. An echo state network based on Levenberg-Marquardt algorithm. The 36th Chinese Control Conference (CCC). IEEE, 2017: 3899-3904.<h5>
+<h5>[7] Wang G M, Qiao J F, Li X L, Wang L, Qian X L. Improved classification with semi-supervised deep belief network. IFAC-PapersOnLine, 2017, 50(1): 4174-4179.<h5>
+<h5>[8] Wang G M, Qiao J F; Bi J, Zhou M C. An Efficient Deep Belief Network with Fuzzy Learning for Nonlinear System Modeling. IEEE International Conference on Systems, Man and Cybernetics (SMC), Bari, Italy, October 6-9, 2019, pp: 3549-3554.<h5>
+<h5>[9] Wang G M, Li W J, Qiao J F, Wu G D. Nonlinear system identification using deep belief network based on PLSR. The 36th Chinese Control Conference (CCC). IEEE, 2017: 10807-10812.<h5>
+<h5>[10] Wang L, Yang C L, Qiao J F, Wang G M. An echo state network based on Levenberg-Marquardt algorithm. The 36th Chinese Control Conference (CCC). IEEE, 2017: 3899-3904.<h5>
   
-<h5>[10] 王功明，乔俊飞，王磊. 一种能量函数意义下的生成式对抗网络. 自动化学报, 2018, 44(5): 793-803.<h5>
+<h5>[11] 王功明，乔俊飞，王磊. 一种能量函数意义下的生成式对抗网络. 自动化学报, 2018, 44(5): 793-803.<h5>
   
-<h5>[11] 王功明，李文静，乔俊飞. 基于PLSR自适应深度信念网络的出水总磷预测. 化工学报, 2017, 68(5): 1987-1997.<h5>
+<h5>[12] 王功明，李文静，乔俊飞. 基于PLSR自适应深度信念网络的出水总磷预测. 化工学报, 2017, 68(5): 1987-1997.<h5>
   
-<h5>[12] 乔俊飞，王功明，李晓理，韩红桂，柴伟. 基于自适应学习率的深度信念网设计与应用. 自动化学报, 2017, 43(8): 1339-1349.<h5>
-<h5>[13] 王功明，乔俊飞，关丽娜，贾庆山. 深度信念网络研究现状与展望. 自动化学报, 2019 (Accepted).<h5>
-<h5>[14] 王功明，李文静，乔俊飞，沈朝旭. 基于重构误差的连续型DBN的深度确定方法. 控制工程, 2019, 26(2): 320-326. <h5>
+<h5>[13] 乔俊飞，王功明，李晓理，韩红桂，柴伟. 基于自适应学习率的深度信念网设计与应用. 自动化学报, 2017, 43(8): 1339-1349.<h5>
+<h5>[14] 王功明，乔俊飞，关丽娜，贾庆山. 深度信念网络研究现状与展望. 自动化学报, 2019 (Accepted).<h5>
+<h5>[15] 王功明，李文静，乔俊飞，沈朝旭. 基于重构误差的连续型DBN的深度确定方法. 控制工程, 2019, 26(2): 320-326. <h5>
