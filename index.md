@@ -1,4 +1,4 @@
-<table border="1">
+<table border="0.5">
   <tr>
     <td width="75%">
       <h1>王功明</h1>
