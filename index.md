@@ -31,7 +31,7 @@
 
 <h3>代表性论著<h3>
   
-<h4>[1] Wang G M, Qiao J F, Bi J, Jia Q-S, Zhou M C. An Adaptive Deep Belief Network with Sparse Restricted Boltzmann Machines. IEEE Transactions on Neural Networks and Learning Systems, 2019 (Accepted).<h4>
+<h4>[1] Wang G M, Qiao J F, Bi J, Jia Q-S, Zhou M C. An Adaptive Deep Belief Network with Sparse Restricted Boltzmann Machines. IEEE Transactions on Neural Networks and Learning Systems, Early Access, pp. 1-12. (DOI: 10.1109/TNNLS.2019.2952864).<h4>
   
 <h4>[2] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. IEEE Transactions on Automation Science and Engineering, 2018, 16(2): 874-885. <h4>
   
